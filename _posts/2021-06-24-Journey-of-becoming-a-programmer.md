@@ -1,3 +1,7 @@
+---
+title: "Journey-of-becoming-a-programmer"
+date: 2021-06-24
+---
 ORIGIN STORY
 I was an Assistant Knowledge Manager working at one of the BIG4, earning a decent amount every month, great benefits and amazing co-workers. 
 When COVID-19 hit and we were send to work from home, it hit me 
